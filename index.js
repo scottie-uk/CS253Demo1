@@ -6,5 +6,6 @@ function myFunction(valueA, valueB){
 var y = myFunction(10,50);
 console.log("Hello");
 console.log(y);
+console.log("Pushy pushy");
 //4/12/2023
 //Spring
